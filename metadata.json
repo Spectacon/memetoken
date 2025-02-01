@@ -2,7 +2,7 @@
   "name": "Aurichain",
   "symbol": "AURI",
   "description": "A meme token for the Solana ecosystem.",
-  "image": "https://github.com/Spectacon/memetoken/blob/main/fozze.png",
+  "image": "https://raw.githubusercontent.com/Spectacon/memetoken/refs/heads/main/fozze.png",
   "extensions": {
     "website": "https://yourwebsite.com",
     "twitter": "https://twitter.com/yourhandle"
